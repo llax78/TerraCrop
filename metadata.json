@@ -1,0 +1,7 @@
+{
+  "name": "TerraCrop: Precision Agriculture & Farm Intelligence",
+  "description": "Enterprise precision agriculture platform featuring interactive NDVI field mapping, microclimate weather stations, AI plant pathology diagnostics, irrigation automation, and grain market analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
